@@ -1,2 +1,2 @@
-# -tense-wool-1620
+# tense-wool-1620
 Clone Of Buffer.com
